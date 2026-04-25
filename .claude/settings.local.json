@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -m pip install -r \"c:/Users/noels/Desktop/reps/WFTest/requirements.txt\")"
+    ]
+  }
+}
